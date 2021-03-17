@@ -1,2 +1,0 @@
-obj\Debug\netcoreapp3.1/Payment.cs \
-obj\Debug\netcoreapp3.1/PaymentGrpc.cs: Protos/payment.proto
